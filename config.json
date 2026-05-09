@@ -1,0 +1,22 @@
+{
+  "version": "2026.04.27",
+  "updated_at": "2026-04-27T12:00:00+00:00",
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "content": "",
+    "url": null,
+    "dismissible": true
+  },
+  "wechat": {
+    "enabled": false,
+    "name": "盘友缘",
+    "qrcode_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/main/assets/qrcode-wechat.png"
+  },
+  "force_update": {
+    "enabled": false,
+    "min_version": "0.0.1",
+    "download_url": "https://github.com/shumyun/Pan-YourFriend/releases",
+    "message": "检测到新版本，请更新后继续使用"
+  }
+}
