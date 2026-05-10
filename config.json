@@ -11,12 +11,14 @@
   "wechat": {
     "enabled": false,
     "name": "盘友缘",
-    "qrcode_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/assets/qrcode-wechat.png"
+    "qrcode_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/assets/qrcode-wechat.png",
+    "qrcode_url_github": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/assets/qrcode-wechat.png"
   },
-  "force_update": {
-    "enabled": false,
-    "min_version": "0.0.1",
-    "download_url": "https://github.com/shumyun/Pan-YourFriend/releases",
-    "message": "检测到新版本，请更新后继续使用"
+  "app_update": {
+    "enabled": true,
+    "latest_version": "1.1.0",
+    "changelog": "测试版本更新功能\n- 验证自动更新弹窗\n- 验证下载与替换流程",
+    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/PYF-desktop.exe",
+    "download_url_github": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/PYF-desktop.exe"
   }
 }
