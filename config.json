@@ -1,24 +1,23 @@
-{
-  "version": "2026.04.27",
-  "updated_at": "2026-04-27T12:00:00+00:00",
+﻿{
+  "version": "1",
+  "updated_at": "2026-05-13",
   "announcement": {
     "enabled": false,
     "title": "",
     "content": "",
-    "url": null,
     "dismissible": true
   },
   "wechat": {
     "enabled": false,
-    "name": "盘友缘",
-    "qrcode_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/assets/qrcode-wechat.png",
-    "qrcode_url_github": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/assets/qrcode-wechat.png"
+    "name": "",
+    "qrcode_url_gitee": "",
+    "qrcode_url_github": ""
   },
   "app_update": {
     "enabled": true,
     "latest_version": "1.1.0",
-    "changelog": "测试版本更新功能\n- 验证自动更新弹窗\n- 验证下载与替换流程",
-    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/PYF-desktop.exe",
-    "download_url_github": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/PYF-desktop.exe"
+    "changelog": "修复更新流程，支持插件",
+    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/1.1.0/pyf.exe",
+    "download_url_github": ""
   }
 }
