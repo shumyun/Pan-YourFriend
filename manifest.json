@@ -9,7 +9,8 @@
       "version": "1.0.0",
       "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/ash_wasm.wasm",
       "hash": "66b65bb3911f39bffd3efa71ca48d0f5457719724b94c21f382f27d9809a4613",
-      "priority": 2
+      "priority": 2,
+  "min_app_version": "1.0.0"
     },
     {
       "name": "feikuai",
@@ -18,7 +19,8 @@
       "version": "1.0.0",
       "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/feikuai_wasm.wasm",
       "hash": "7981804f00456a9f8d5b7f08af4140b2591ef55b8266f0f9713b0f3eee1c419e",
-      "priority": 1
+      "priority": 1,
+  "min_app_version": "1.0.0"
     },
     {
       "name": "ouge",
@@ -27,7 +29,8 @@
       "version": "1.0.0",
       "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/ouge_wasm.wasm",
       "hash": "2af9580b67c35b5ec519cf2940d0dab2eae38d271b94404d92cbb627d0a391e3",
-      "priority": 2
+      "priority": 2,
+  "min_app_version": "1.0.0"
     },
     {
       "name": "thepiratebay",
@@ -36,7 +39,8 @@
       "version": "1.0.0",
       "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/thepiratebay_wasm.wasm",
       "hash": "8210fd70ea193cd7b8989dd02e8b74fe75f4e3123a93ba0bb3ad9da567715272",
-      "priority": 1
+      "priority": 1,
+  "min_app_version": "1.0.0"
     },
     {
       "name": "wanou",
@@ -45,7 +49,8 @@
       "version": "1.0.0",
       "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/wanou_wasm.wasm",
       "hash": "fe643661b7c235ddb64a069145f483da7c19ee963ea2c92159d3c261f39b781c",
-      "priority": 1
+      "priority": 1,
+  "min_app_version": "1.0.0"
     }
   ]
 }
