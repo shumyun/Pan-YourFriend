@@ -19,5 +19,15 @@
     "changelog": "修复更新流程，支持插件",
     "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/1.1.0/pyf.exe",
     "download_url_github": ""
-  }
+  },
+"recommend_sites": {
+  "enabled": true,
+  "title": "推荐搜索站点",
+  "sites": [
+    { "name": "Neo-Brutalism 盘搜", "url": "https://pan.ailinux.de/", "tags": ["影视"] },
+    { "name": "GugeSo", "url": "https://www.gugeso.com/","tags": ["影视"] },
+    { "name": "云寻 多网盘资源聚合搜索", "url": "https://yx.zerovv.top/","tags": ["影视"] },
+    { "name": "网盘资源搜索", "url": "https://so.yinpai.xyz/","tags": ["影视"] }
+  ]
+}
 }
