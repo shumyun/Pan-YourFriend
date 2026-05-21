@@ -1,56 +1,61 @@
 {
-  "version": "2026.04.27",
-  "updated_at": "2026-04-27T12:00:00+00:00",
+  "version": "1",
+  "updated_at": "2026-05-19T10:00:00+00:00",
   "plugins": [
     {
       "name": "ash",
       "display_name": "ash",
-      "description": "ash 网盘搜索",
-      "version": "1.0.0",
-      "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/ash_wasm.wasm",
-      "hash": "66b65bb3911f39bffd3efa71ca48d0f5457719724b94c21f382f27d9809a4613",
+      "description": "ash 搜索",
+      "version": "0.1.0",
+      "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/ash_wasm.wasm",
+      "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/plugins/ash_wasm.wasm",
+      "hash": "bf198e817db596cf23b4bcce22658f3154b59fa29fdbb6678279522aa4f62255",
       "priority": 2,
-  "min_app_version": "1.0.0"
+      "min_app_version": "1.0.0"
     },
     {
       "name": "feikuai",
       "display_name": "feikuai",
       "description": "feikuai 搜索",
-      "version": "1.0.0",
-      "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/feikuai_wasm.wasm",
-      "hash": "7981804f00456a9f8d5b7f08af4140b2591ef55b8266f0f9713b0f3eee1c419e",
-      "priority": 1,
-  "min_app_version": "1.0.0"
+      "version": "0.1.0",
+      "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/feikuai_wasm.wasm",
+      "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/plugins/feikuai_wasm.wasm",
+      "hash": "e5d96c5bdf19df2ff9a517c23f32206641479c3efbf9f0566918736509349d9e",
+      "priority": 3,
+      "min_app_version": "1.0.0"
     },
     {
       "name": "ouge",
       "display_name": "ouge",
-      "description": "ouge VOD 搜索",
-      "version": "1.0.0",
-      "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/ouge_wasm.wasm",
-      "hash": "2af9580b67c35b5ec519cf2940d0dab2eae38d271b94404d92cbb627d0a391e3",
+      "description": "ouge 搜索",
+      "version": "0.1.0",
+      "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/ouge_wasm.wasm",
+      "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/plugins/ouge_wasm.wasm",
+      "hash": "2475fbf41320bd4654c1f02950bbb1837d292afbe60d69b2e02deba5853d87cb",
       "priority": 2,
-  "min_app_version": "1.0.0"
+      "min_app_version": "1.0.0"
     },
     {
       "name": "thepiratebay",
       "display_name": "thepiratebay",
-      "description": "thepiratebay 磁力搜索",
-      "version": "1.0.0",
-      "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/thepiratebay_wasm.wasm",
-      "hash": "8210fd70ea193cd7b8989dd02e8b74fe75f4e3123a93ba0bb3ad9da567715272",
-      "priority": 1,
-  "min_app_version": "1.0.0"
+      "description": "thepiratebay 搜索",
+      "version": "0.1.0",
+      "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/thepiratebay_wasm.wasm",
+      "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/plugins/thepiratebay_wasm.wasm",
+      "hash": "73e145724e38123a90be059db847cb74443de6678d19e24e545dc7ba8a5872f8",
+      "priority": 3,
+      "min_app_version": "1.0.0"
     },
     {
       "name": "wanou",
       "display_name": "wanou",
-      "description": "wanou VOD 搜索",
-      "version": "1.0.0",
-      "url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/wanou_wasm.wasm",
-      "hash": "fe643661b7c235ddb64a069145f483da7c19ee963ea2c92159d3c261f39b781c",
+      "description": "wanou 搜索",
+      "version": "0.1.0",
+      "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/plugins/wanou_wasm.wasm",
+      "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/plugins/wanou_wasm.wasm",
+      "hash": "9a949ccf49306e4fa3d2523aec9c3f039d618b989eb1def8a81be55447d40b3b",
       "priority": 1,
-  "min_app_version": "1.0.0"
+      "min_app_version": "1.0.0"
     }
   ]
 }

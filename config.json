@@ -7,14 +7,12 @@
     "url": ""
   },
   "app_update": {
-    "changelog": "",
     "download_url_gitee": "",
     "download_url_gitee_apk": "",
     "download_url_github": "",
     "download_url_github_apk": "",
     "enabled": true,
-    "force": false,
-    "latest_version": "1.0.0"
+    "force": true
   },
   "recommend_sites": {
     "enabled": true,
@@ -50,12 +48,12 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-19T13:49:42Z",
+  "updated_at": "2026-05-21T06:51:11Z",
   "version": "1",
   "wechat": {
     "enabled": false,
     "name": "",
-    "qrcode_url_gitee": "",
-    "qrcode_url_github": ""
+    "qrcode_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/images/wechat-qrcode.png",
+    "qrcode_url_github": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/images/wechat-qrcode.png"
   }
 }
