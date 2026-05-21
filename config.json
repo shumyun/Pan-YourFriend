@@ -1,6 +1,6 @@
 {
   "announcement": {
-    "content": "测试内容",
+    "content": "测试内容1",
     "dismissible": true,
     "enabled": false,
     "title": "测试标题",
@@ -48,7 +48,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-21T11:06:55Z",
+  "updated_at": "2026-05-21T11:16:02Z",
   "version": "1",
   "wechat": {
     "enabled": false,
