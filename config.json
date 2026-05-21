@@ -7,10 +7,10 @@
     "url": ""
   },
   "app_update": {
-    "download_url_gitee": "",
-    "download_url_gitee_apk": "",
-    "download_url_github": "",
-    "download_url_github_apk": "",
+    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-setup.exe",
+    "download_url_gitee_apk": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF.apk",
+    "download_url_github": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-setup.exe",
+    "download_url_github_apk": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF.apk",
     "enabled": true,
     "force": true
   },
@@ -48,11 +48,10 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-21T06:51:11Z",
+  "updated_at": "2026-05-21T07:04:06Z",
   "version": "1",
   "wechat": {
     "enabled": false,
-    "name": "",
     "qrcode_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/images/wechat-qrcode.png",
     "qrcode_url_github": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/images/wechat-qrcode.png"
   }
