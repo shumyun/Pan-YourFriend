@@ -1,10 +1,10 @@
 {
   "announcement": {
-    "content": "",
+    "content": "测试内容",
     "dismissible": true,
     "enabled": false,
-    "title": "",
-    "url": ""
+    "title": "测试标题",
+    "url": "www.baidu.com"
   },
   "app_update": {
     "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-setup.exe",
@@ -48,7 +48,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-21T07:04:06Z",
+  "updated_at": "2026-05-21T07:08:10Z",
   "version": "1",
   "wechat": {
     "enabled": false,
