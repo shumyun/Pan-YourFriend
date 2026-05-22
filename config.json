@@ -1,7 +1,7 @@
 {
   "announcement": {
     "content": "测试内容1",
-    "dismissible": true,
+    "dismissible": false,
     "enabled": true,
     "title": "测试标题",
     "url": "www.baidu.com"
@@ -41,7 +41,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-22T02:25:35Z",
+  "updated_at": "2026-05-22T13:23:53Z",
   "version": "1",
   "wechat": {
     "enabled": false,
