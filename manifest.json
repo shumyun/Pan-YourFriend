@@ -8,7 +8,7 @@
       "hash": "sha256:e7e485d708befaa8f9c75661547492c3109eec994898719086c43b86ad286117",
       "min_app_version": "1.0.0",
       "name": "ash",
-      "priority": 2,
+      "priority": 1,
       "version": "1.0.0"
     },
     {
@@ -19,7 +19,7 @@
       "hash": "sha256:64efe29b58fc31362583f91b2c28a9e0614a9b10cbec6d9b8b2e493e72901e26",
       "min_app_version": "1.0.0",
       "name": "feikuai",
-      "priority": 3,
+      "priority": 1,
       "version": "1.0.0"
     },
     {
@@ -30,7 +30,7 @@
       "hash": "sha256:16473ed2963f785751323166a2c0e39c203235ced97d37da2740bcde2391e9a4",
       "min_app_version": "1.0.0",
       "name": "ouge",
-      "priority": 2,
+      "priority": 1,
       "version": "1.0.0"
     },
     {
@@ -41,7 +41,7 @@
       "hash": "sha256:3fa7d66578cc0b4fb2ab5e5a5fc0157b6e134a26f4da4397a119c3fed0b0bf9a",
       "min_app_version": "1.0.0",
       "name": "thepiratebay",
-      "priority": 3,
+      "priority": 1,
       "version": "1.0.0"
     },
     {
@@ -56,6 +56,6 @@
       "version": "1.0.0"
     }
   ],
-  "updated_at": "2026-05-24T06:13:11Z",
+  "updated_at": "2026-05-24T06:45:42Z",
   "version": "1"
 }
