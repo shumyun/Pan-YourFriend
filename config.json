@@ -7,14 +7,14 @@
     "url": ""
   },
   "app_update": {
-    "changelog": "cd",
-    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-setup.exe",
-    "download_url_gitee_apk": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF.apk",
-    "download_url_github": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-setup.exe",
-    "download_url_github_apk": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF.apk",
+    "changelog": "测试",
+    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.3/PYF-setup.exe",
+    "download_url_gitee_apk": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.3/PYF.apk",
+    "download_url_github": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.3/PYF-setup.exe",
+    "download_url_github_apk": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.3/PYF.apk",
     "enabled": true,
     "force": true,
-    "latest_version": "1.0.2",
+    "latest_version": "1.0.3",
     "release_date": "2026-05-24",
     "release_notes": ""
   },
@@ -45,7 +45,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-24T09:26:39Z",
+  "updated_at": "2026-05-24T09:47:23Z",
   "version": "1",
   "wechat": {
     "enabled": true,
