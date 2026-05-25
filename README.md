@@ -32,4 +32,16 @@
 
 ---
 
+## 感谢
+
+本项目是基于原版 **PanSou** 项目的 Rust 重构实现。
+
+在此向原项目作者致以诚挚的感谢，感谢您提供的创新理念与设计，为本项目奠定了坚实的基础。
+
+-   **原项目名称**: PanSou
+-   **原项目作者**: fish2018
+-   **项目地址**: [https://github.com/fish2018/pansou](https:github.com/fish2018/pansou)
+
+---
+
 *本仓库由 [PYF-sync](https://github.com/shumyun/Pan-YourFriend) 工具自动同步维护。*
