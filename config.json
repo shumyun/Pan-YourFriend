@@ -7,15 +7,35 @@
     "url": ""
   },
   "app_update": {
-    "changelog": "第一个正式版本",
-    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.0/PYF-setup.exe",
-    "download_url_gitee_apk": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.0/PYF.apk",
-    "download_url_github": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.0/PYF-setup.exe",
-    "download_url_github_apk": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.0/PYF.apk",
+    "android_downloads": {
+      "arm64-v8a": {
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/releases/PYF-android-arm64.apk",
+        "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/releases/PYF-android-arm64.apk"
+      },
+      "armeabi-v7a": {
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/releases/PYF-android-armv7.apk",
+        "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/releases/PYF-android-armv7.apk"
+      },
+      "universal": {
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/releases/PYF-android-universal.apk",
+        "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/releases/PYF-android-universal.apk"
+      },
+      "x86": {
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/releases/PYF-android-x86.apk",
+        "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/releases/PYF-android-x86.apk"
+      },
+      "x86_64": {
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/raw/master/releases/PYF-android-x86_64.apk",
+        "github_url": "https://raw.githubusercontent.com/shumyun/Pan-YourFriend/master/releases/PYF-android-x86_64.apk"
+      }
+    },
+    "changelog": "测试",
+    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF.exe",
+    "download_url_github": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF.exe",
     "enabled": true,
     "force": true,
-    "latest_version": "1.0.0",
-    "release_date": "2026-05-24",
+    "latest_version": "1.0.1",
+    "release_date": "2026-05-26",
     "release_notes": "v1.0.0"
   },
   "recommend_sites": {
@@ -45,7 +65,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-24T11:17:17Z",
+  "updated_at": "2026-05-26T11:31:46Z",
   "version": "1",
   "wechat": {
     "enabled": true,
