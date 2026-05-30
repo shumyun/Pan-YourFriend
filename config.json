@@ -9,33 +9,33 @@
   "app_update": {
     "android_downloads": {
       "arm64-v8a": {
-        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-arm64.apk",
-        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-arm64.apk"
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-arm64.apk",
+        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-arm64.apk"
       },
       "armeabi-v7a": {
-        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-armv7.apk",
-        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-armv7.apk"
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-armv7.apk",
+        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-armv7.apk"
       },
       "universal": {
-        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-universal.apk",
-        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-universal.apk"
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-universal.apk",
+        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-universal.apk"
       },
       "x86": {
-        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-x86.apk",
-        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-x86.apk"
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-x86.apk",
+        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-x86.apk"
       },
       "x86_64": {
-        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-x86_64.apk",
-        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF-android-x86_64.apk"
+        "gitee_url": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-x86_64.apk",
+        "github_url": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF-android-x86_64.apk"
       }
     },
-    "changelog": "测试",
-    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF.exe",
-    "download_url_github": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.1/PYF.exe",
+    "changelog": "",
+    "download_url_gitee": "https://gitee.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF.exe",
+    "download_url_github": "https://github.com/shumyun/Pan-YourFriend/releases/download/v1.0.2/PYF.exe",
     "enabled": true,
     "force": false,
-    "latest_version": "1.0.1",
-    "release_date": "2026-05-28",
+    "latest_version": "1.0.2",
+    "release_date": "2026-05-30",
     "release_notes": "v1.0.0"
   },
   "recommend_sites": {
@@ -72,7 +72,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-30T12:40:32Z",
+  "updated_at": "2026-05-30T12:57:51Z",
   "version": "1",
   "wechat": {
     "enabled": true,
