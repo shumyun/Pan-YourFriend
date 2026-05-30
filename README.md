@@ -1,7 +1,8 @@
-# Pan-YourFriend — 盘友缘升级仓库
+# Pan-YourFriend(盘友缘) — 一个本地高性能的网盘资源搜索软件，支持TG搜索和自定义插件搜索。
 
 > 本仓库为 [盘友缘 (PYF)](https://github.com/shumyun/Pan-YourFriend) 的远程升级数据源，
 > 包含频道列表、WASM 插件清单、应用更新配置等。
+>支持的网盘类型：百度网盘 (baidu)、阿里云盘 (aliyun)、夸克网盘 (quark)、光鸭云盘 (guangya)、天翼云盘 (tianyi)、UC网盘 (uc)、移动云盘 (mobile)、115网盘 (115)、PikPak (pikpak)、迅雷网盘 (xunlei)、123网盘 (123)、磁力链接 (magnet)、电驴链接 (ed2k)、其他 (others)
 
 ---
 
@@ -40,7 +41,7 @@
 
 -   **原项目名称**: PanSou
 -   **原项目作者**: fish2018
--   **项目地址**: [https://github.com/fish2018/pansou](https:github.com/fish2018/pansou)
+-   **项目地址**: [https://github.com/fish2018/pansou](https://github.com/fish2018/pansou)
 
 ---
 
