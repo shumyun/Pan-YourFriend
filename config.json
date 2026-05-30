@@ -61,11 +61,18 @@
           "影视"
         ],
         "url": "https://so.yinpai.xyz/"
+      },
+      {
+        "name": "baidu",
+        "tags": [
+          "综合"
+        ],
+        "url": "https://www.baidu.com/"
       }
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-30T12:35:12Z",
+  "updated_at": "2026-05-30T12:40:32Z",
   "version": "1",
   "wechat": {
     "enabled": true,
