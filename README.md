@@ -1,4 +1,6 @@
-# Pan-YourFriend(盘友缘) — 一个本地高性能的网盘资源搜索软件，支持TG搜索和自定义插件搜索。
+# Pan-YourFriend(盘友缘)
+
+## 一个本地高性能的网盘资源搜索软件，支持TG搜索和自定义插件搜索。
 
 > 本仓库为 [盘友缘 (PYF)](https://github.com/shumyun/Pan-YourFriend) 的远程升级数据源，
 > 包含频道列表、WASM 插件清单、应用更新配置等。
