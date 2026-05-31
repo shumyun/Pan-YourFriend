@@ -1,10 +1,10 @@
 {
   "announcement": {
-    "content": "1",
+    "content": "2",
     "dismissible": true,
     "enabled": false,
-    "title": "1",
-    "url": "1"
+    "title": "2",
+    "url": "2"
   },
   "app_update": {
     "android_downloads": {
@@ -65,7 +65,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-31T13:45:49Z",
+  "updated_at": "2026-05-31T13:53:45Z",
   "version": "1",
   "wechat": {
     "enabled": true,
