@@ -3,7 +3,7 @@
     "content": "2",
     "dismissible": true,
     "enabled": false,
-    "title": "1",
+    "title": "2",
     "url": "3"
   },
   "app_update": {
@@ -65,7 +65,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-05-31T14:51:33Z",
+  "updated_at": "2026-05-31T15:02:37Z",
   "version": "1",
   "wechat": {
     "enabled": true,
