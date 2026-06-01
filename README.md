@@ -43,7 +43,7 @@
 
 -   **原项目名称**: PanSou
 -   **原项目作者**: fish2018
--   **项目地址**: [https://github.com/fish2018/pansou](https://github.com/fish2018/pansou)
+-   **项目地址**: https://github.com/fish2018/pansou
 
 ---
 
