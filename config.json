@@ -1,10 +1,10 @@
 {
   "announcement": {
-    "content": "1",
+    "content": "测试",
     "dismissible": true,
-    "enabled": false,
-    "title": "1",
-    "url": "1"
+    "enabled": true,
+    "title": "测试",
+    "url": "www.baidu.com"
   },
   "app_update": {
     "android_downloads": {
@@ -65,7 +65,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-06-01T01:37:27Z",
+  "updated_at": "2026-06-01T02:01:04Z",
   "version": "1",
   "wechat": {
     "enabled": true,
