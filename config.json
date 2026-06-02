@@ -61,11 +61,25 @@
           "影视"
         ],
         "url": "https://so.yinpai.xyz/"
+      },
+      {
+        "name": "不二资源搜索站",
+        "tags": [
+          "影视"
+        ],
+        "url": "https://buerchen.top/"
+      },
+      {
+        "name": "365聚合资源站",
+        "tags": [
+          "影视"
+        ],
+        "url": "https://pan.365wp.top/"
       }
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-06-02T01:03:41Z",
+  "updated_at": "2026-06-02T01:10:19Z",
   "version": "1",
   "wechat": {
     "enabled": true,
