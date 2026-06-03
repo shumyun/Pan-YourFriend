@@ -35,7 +35,7 @@
     "enabled": true,
     "force": true,
     "latest_version": "1.0.0",
-    "release_date": "2026-06-01",
+    "release_date": "2026-06-03",
     "release_notes": "v1.0.0"
   },
   "recommend_sites": {
@@ -79,7 +79,7 @@
     ],
     "title": "推荐搜索站点"
   },
-  "updated_at": "2026-06-02T06:13:51Z",
+  "updated_at": "2026-06-03T11:41:48Z",
   "version": "1",
   "wechat": {
     "enabled": true,
